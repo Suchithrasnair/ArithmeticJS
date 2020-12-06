@@ -44,7 +44,7 @@
                 </tr>
                 <tr>
                     <td></td>
-                    <td><button class="btn btn-success" onclick="multiply()">ADD</button></td>
+                    <td><button class="btn btn-success" onclick="multiply()">MULTIPLY</button></td>
                     <td></td>
                 </tr>
                 <tr>
