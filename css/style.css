@@ -1,0 +1,23 @@
+.body{
+    background-color: beige;
+}
+.navbarBg{
+    background-color: antiquewhite;
+}
+.texthover{
+    color:darkblue;
+}
+.texthover:hover{
+   color:brown;
+    font-size:40px;
+}
+.tablebg{
+    background-color: aquamarine;
+}
+.margintop{
+    margin-top:25px ;
+}
+nav a.active,
+nav a.active:hover {
+  background-color: blue !important;
+}
